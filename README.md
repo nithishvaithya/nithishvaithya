@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithish Vaithya</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithishvaithya&label=Profile%20views&color=0e75b6&style=flat" alt="nithishvaithya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithishvaithya" alt="nithishvaithya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vaithyanithish" target="blank"><img src="https://img.shields.io/twitter/follow/vaithyanithish?logo=twitter&style=for-the-badge" alt="vaithyanithish" /></a> </p>
 
